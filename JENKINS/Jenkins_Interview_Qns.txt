@@ -7,7 +7,7 @@
 	
 	- C.D. Contineous Delivery of code to an environment once the code is ready to ship. This could be staging or production. The idea is the product is delivered to a user base, which can be QAS or customers for review and inspection.
 
-	- C.D depoloment extends continuous delivery so that the software build will automatically deploy if it passes all tests. In such a process, there is no need for a person to decide when and what goes into production.
+	- C.D deploloment extends continuous delivery so that the software build will automatically deploy if it passes all tests. In such a process, there is no need for a person to decide when and what goes into production.
 
 2.) How do you change Jenkins HOME directory??
 
